@@ -10,3 +10,4 @@ data <- read.table(header=TRUE, text='
 
 # Write to a file
 write.csv(data, "data/data.csv")
+#push 
